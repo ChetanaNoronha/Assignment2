@@ -122,13 +122,13 @@
 
             .step {
                 font-size: 12px;
-                line-height: 18px;
+                line-height: 18px; // Kane's change
             }
             .tweet-container {
                 top: 80px;
             }
             .content{
                 max-width: 630px;
-                min-width: 630px;
+                min-width: 630px; // Kane's change
             }
         }
